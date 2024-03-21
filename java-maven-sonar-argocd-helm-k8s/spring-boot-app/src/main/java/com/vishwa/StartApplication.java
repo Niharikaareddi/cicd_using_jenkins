@@ -1,4 +1,4 @@
-package com.vishwa;
+package com.Niharika;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
